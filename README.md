@@ -13,7 +13,7 @@
 - [论文写作](##论文写作)
 - [Presentation](##Presentation)
 ---
-## 检索
+##检索
 #### 文献检索
 - Google Scholar
 - dblp
@@ -21,7 +21,7 @@
 - GitHub
 
 ---
-## Coding
+##Coding
 #### 资源
 - Personal Webpage
 - GitHub
@@ -34,7 +34,7 @@
 
 
 ---
-## 论文写作
+##论文写作
 #### Latex
 - TexLive: 
 - VSCode + LeTeX Workshop: 
@@ -46,5 +46,5 @@
 - Tikz
 
 ---
-## Presentation
+##Presentation
 
