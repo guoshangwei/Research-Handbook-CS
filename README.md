@@ -6,17 +6,45 @@
 
 <em>向优秀的人学习你才能更优秀</em>
 
+---
 ## 目录
-- [检索](## 检索)
-- [Coding](## Coding)
-- [论文写作](## 论文写作)
-- [Presentation](## Presentation)
-
+- [检索](##检索)
+- [Coding](##Coding)
+- [论文写作](##论文写作)
+- [Presentation](##Presentation)
+---
 ## 检索
+#### 文献检索
+- Google Scholar
+- dblp
+- [CCF推荐期刊/会议](https://www.ccf.org.cn/xspj/gyml/)
+- GitHub
 
+---
 ## Coding
+#### 资源
+- Personal Webpage
+- GitHub
 
+
+#### Debug
+- 官方文档
+- Stack Overflow
+- GitHub
+
+
+---
 ## 论文写作
+#### Latex
+- TexLive: 
+- VSCode + LeTeX Workshop: 
+- GitHub/Overleaf: 
 
+#### 画图
+- draw.io: 
+- gnuplot:
+- Tikz
+
+---
 ## Presentation
 
