@@ -8,12 +8,12 @@
 
 ---
 ## 目录
-- [检索](##检索)
-- [Coding](##Coding)
-- [论文写作](##论文写作)
-- [Presentation](##Presentation)
+- [Search](#search)
+- [Coding](#coding)
+- [Writhing](#writing)
+- [Presentation](#presentation)
 ---
-##检索
+## Search
 #### 文献检索
 - Google Scholar
 - dblp
@@ -21,7 +21,7 @@
 - GitHub
 
 ---
-##Coding
+## Coding
 #### 资源
 - Personal Webpage
 - GitHub
@@ -34,7 +34,7 @@
 
 
 ---
-##论文写作
+## Writing
 #### Latex
 - TexLive: 
 - VSCode + LeTeX Workshop: 
@@ -46,5 +46,5 @@
 - Tikz
 
 ---
-##Presentation
+## Presentation
 
