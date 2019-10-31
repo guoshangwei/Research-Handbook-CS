@@ -11,11 +11,12 @@
 ## 目录
 - [Search](#search)
 - [Coding](#coding)
-- [Writhing](#writing)
+- [Writing](#writing)
 - [Presentation](#presentation)
 
 ## Search
 #### 文献检索
+- Google: 万能
 - Google Scholar: 专业的文献检索工具
 - [dblp](https://dblp.uni-trier.de/db/): 专门的计算机科学数据库，对会议和期刊有比较好的分类和总结
 - [CCF推荐期刊/会议](https://www.ccf.org.cn/xspj/gyml/): 会议和期刊推荐，它的分类标准被广泛认可
