@@ -38,13 +38,13 @@
 - GitHub
 
 #### Tool
-- VSCode + Extentions
-
+- VSCode + Extensions
+- My VSCode Extensions: general (bracket-pair-colorizer, code-settings-sync, code-spell-checker, githistory, indent-rainbow, path-intellisense), Python (python, MagicPython, python-preview, vsc-python-indent), Markdown (markdown-preview-enhance, vscode-markdownlint)
 
 ## Writing
 #### Latex
 - TexLive: 必备基础软件
-- VSCode + LeTeX Workshop: 写latex利器
+- VSCode: 写latex利器 (Extensions: latex-utilities, grammarly, latex-workshop)
 - GitHub/Overleaf: 多人协作工具
 
 #### 画图
@@ -54,4 +54,6 @@
 
 
 ## Presentation
-
+### Slides
+- Latex beamer templates: just search on GitHub
+- Microsoft Powerpoint
