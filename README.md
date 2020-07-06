@@ -13,6 +13,7 @@
 - [Coding](#coding)
 - [Writing](#writing)
 - [Presentation](#presentation)
+- [Related Pages](#related pages)
 
 ## Search
 #### 文献检索
@@ -57,3 +58,6 @@
 ### Slides
 - Latex beamer templates: just search on GitHub
 - Microsoft Powerpoint
+
+## Related Pages
+- [如何收集和整理论文（面向CS专业](https://ying-zhang.github.io/misc/2016/we-love-paper/#hosts)
