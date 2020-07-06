@@ -13,7 +13,7 @@
 - [Coding](#coding)
 - [Writing](#writing)
 - [Presentation](#presentation)
-- [Related Pages](#related pages)
+- [Related Pages](#relatedpages)
 
 ## Search
 #### 文献检索
